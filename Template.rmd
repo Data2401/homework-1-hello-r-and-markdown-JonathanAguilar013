@@ -19,7 +19,7 @@ library(datasauRus)
 
 ### Exercise 1
 
-This is a data frame with 1846 rows and 3 variables.
+There are 13 rows and  2 columns in this data set with variables `x` and `y`.
 
 ### Exercise 2
 
